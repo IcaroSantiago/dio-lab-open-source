@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.crud-btn {
+    padding: 8px 16px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.create-btn {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.read-btn {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.update-btn {
+    background-color: #FFD700;
+    color: #fff;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.input-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
